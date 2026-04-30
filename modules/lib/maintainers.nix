@@ -139,11 +139,23 @@
     github = "Dines97";
     githubId = 19364873;
   };
+  dosten = {
+    name = "Diego Saint Esteben";
+    email = "diego@saintesteben.me";
+    github = "dosten";
+    githubId = 510842;
+  };
   dsoverlord = {
     name = "Kirill Zakharov";
     email = "dsoverlord@vk.com";
     github = "dsoverlord";
     githubId = 78819443;
+  };
+  dsqr = {
+    name = "Dave Dennis";
+    email = "me@dsqr.dev";
+    github = "0xdsqr";
+    githubId = 99584622;
   };
   dwagenk = {
     email = "dwagenk@mailbox.org";
@@ -221,6 +233,12 @@
         fingerprint = "AD32 73D4 5E0E 9478 E826  543F EDB2 C634 166A E6AD";
       }
     ];
+  };
+  isaacST08 = {
+    name = "Isaac Shiells Thomas";
+    email = "isaacst.nix@proton.me";
+    github = "isaacST08";
+    githubId = 106057977;
   };
   jack5079 = {
     name = "Jack W.";
@@ -422,11 +440,22 @@
     github = "nurelin";
     githubId = 5276274;
   };
+  ojsef39 = {
+    name = "Josef Hofer";
+    email = "josef.hofer@1und1.de";
+    github = "ojsef39";
+    githubId = 43563019;
+  };
   olmokramer = {
     name = "Olmo Kramer";
     email = "olmokramer@users.noreply.github.com";
     github = "olmokramer";
     githubId = 3612514;
+  };
+  oneorseveralcats = {
+    name = "oneorseveralcats";
+    github = "oneorseveralcats";
+    githubId = 170012754;
   };
   owm111 = {
     email = "7798336+owm111@users.noreply.github.com";
@@ -439,6 +468,12 @@
     email = "pedorich.n@gmail.com";
     github = "pedorich-n";
     githubId = 15573098;
+  };
+  philip-730 = {
+    name = "Philip Amendolia";
+    email = "philip.amendolia@gmail.com";
+    github = "philip-730";
+    githubId = 116534928;
   };
   pltanton = {
     name = "pltanton";
@@ -500,11 +535,17 @@
     github = "silmarp";
     githubId = 67292496;
   };
-  vortriz = {
-    name = "Rishi Vora";
-    email = "vorarishi22+nix@gmail.com";
-    github = "Vortriz";
-    githubId = 97402159;
+  soracat = {
+    name = "soracat";
+    email = "125882337+s0racat@users.noreply.github.com";
+    github = "s0racat";
+    githubId = 125882337;
+  };
+  yarn = {
+    name = "yarncat";
+    email = "30006414+yaaaarn@users.noreply.github.com";
+    github = "yaaaarn";
+    githubId = 30006414;
   };
   zorrobert = {
     name = "zorrobert";
